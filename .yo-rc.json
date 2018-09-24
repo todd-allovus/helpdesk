@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "helpdesk",
+    "libraryId": "a7937520-0ce8-427a-815a-c2f1b3b34b21",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
